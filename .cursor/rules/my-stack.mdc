@@ -1,0 +1,20 @@
+---
+description: Tech Stack
+alwaysApply: false
+---
+
+# Core Stack
+
+- Bundler: Vite
+- Framework: React
+- Language: TypeScript
+- HTTP Client: Axios
+
+# Additional Libraries
+
+- Routing: React Router DOM
+- State Management: React useState
+- Styling: Tailwind CSS
+- Testing: Jest, React Testing Library
+- Animations: motion
+- Pagination: react-paginate
