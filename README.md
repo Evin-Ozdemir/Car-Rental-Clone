@@ -1,50 +1,40 @@
-# React + TypeScript + Vite
+<div><h1>🍦 Ice Cream Shop Clone</h1></div>
+<h4>Hello! 🎉
+I am excited to share with you the Ice Cream Clone project, which can be implemented with a comprehensive user panel, strong status management and test-driven improvement practices!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project offers a simple and effective e-commerce experience with modern web development techniques. Users can browse ice cream varieties, get instant feedback on transactions thanks to the cart options and notification system.</h4>
+<h4>Star ⭐ the repo if you like what you see 😉 </h4>
+ <div>
+ <h2>📸 Project Demo</h2>
+ <p>Watch the video to see how the project works! 👇</p>
+   
 
-Currently, two official plugins are available:
+https://github.com/user-attachments/assets/29540b3d-2d5e-4dda-93f8-7622fa93dee7
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+<h2>🛠️ Technologies and Libraries Used</h2>
+ <ul>
+   <li>React: For building modern, component-based UI.</li>
+   <li>Redux Toolkit & React-Redux: For a manageable and consistent global state across the application.</li>
+   <li>Redux Thunk: As middleware to manage asynchronous data requests.</li>
+   <li>Axios: Powerful and lightweight HTTP client to pull COVID data.</li>
+   <li>React Router DOM: To ease page transitions.</li>
+   <li>Testing Library (jest-dom, react, user-event): Tests to ensure correctness and reliability of the application.</li>
+   <li>Redux Mock Store: To test the Redux store behavior.</li>
+   <li>TailwindCSS: To add a flexible, mobile-friendly and modern style to the project.</li>
+   <li>React Toastify: Fast notification system for user actions.</li>
+   <li>Redux Mock Store: Simulated store to test Redux operations.</li>
+ </ul>  
+ 
+ <h2>🎨 Features</h2>
+ <ul>
+   <li>🛒 Product listing and adding to cart
+</li>
+   <li>🔔 User notifications with notifications</li>
+   <li>📦 Data from the API is managed centrally with Redux.</li>
+   <li>🧪 Test-oriented reliable structure</li>
+   <li>⚡ Fast development process and optimized performance
+</li>
+ <li>🎨 Mobile compatible and responsive design</li>
+ </ul> 
+ 
