@@ -1,8 +1,6 @@
-<div><h1>🍦 Ice Cream Shop Clone</h1></div>
+<div><h1>🚗 Car Rental Clone</h1></div>
 <h4>Hello! 🎉
-I am excited to share with you the Ice Cream Clone project, which can be implemented with a comprehensive user panel, strong status management and test-driven improvement practices!
-
-This project offers a simple and effective e-commerce experience with modern web development techniques. Users can browse ice cream varieties, get instant feedback on transactions thanks to the cart options and notification system.</h4>
+This car rental app, developed with a modern user interface design and up-to-date front-end technologies, is a clone of real-world scenarios. It offers a user-friendly experience with category filtering, pagination, sleek animations, and a mobile-friendly design. By combining the power of TypeScript, I've developed a clean, scalable, and user-friendly car rental platform.</h4>
 <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
  <h2>📸 Project Demo</h2>
@@ -14,27 +12,24 @@ https://github.com/user-attachments/assets/29540b3d-2d5e-4dda-93f8-7622fa93dee7
 
 <h2>🛠️ Technologies and Libraries Used</h2>
  <ul>
-   <li>React: For building modern, component-based UI.</li>
-   <li>Redux Toolkit & React-Redux: For a manageable and consistent global state across the application.</li>
-   <li>Redux Thunk: As middleware to manage asynchronous data requests.</li>
-   <li>Axios: Powerful and lightweight HTTP client to pull COVID data.</li>
-   <li>React Router DOM: To ease page transitions.</li>
-   <li>Testing Library (jest-dom, react, user-event): Tests to ensure correctness and reliability of the application.</li>
-   <li>Redux Mock Store: To test the Redux store behavior.</li>
-   <li>TailwindCSS: To add a flexible, mobile-friendly and modern style to the project.</li>
-   <li>React Toastify: Fast notification system for user actions.</li>
-   <li>Redux Mock Store: Simulated store to test Redux operations.</li>
+  <li>📘 TypeScript – A powerful programming language that reduces the risk of errors in modern web projects and increases productivity with IDE support.</li>
+   <li>⚛️ React – Component-based architecture and fast performance</li>
+   <li>🧭 React Router DOM – For page transitions</li>
+   <li>🎨 TailwindCSS – Modern and responsive interface design</li>
+   <li>📦 Vite – Rapid development environment</li>
+   <li>📊 Vercel Analytics – User behavior analysis</li>
+   <li>📂 React Select – Advanced dropdown filtering</li>
+   <li>🔢 React Paginate – Pagination control</li>
+   <li>🎞️ Motion – Enrich the user experience with animations</li>
  </ul>  
  
  <h2>🎨 Features</h2>
- <ul>
-   <li>🛒 Product listing and adding to cart
-</li>
-   <li>🔔 User notifications with notifications</li>
-   <li>📦 Data from the API is managed centrally with Redux.</li>
-   <li>🧪 Test-oriented reliable structure</li>
-   <li>⚡ Fast development process and optimized performance
-</li>
- <li>🎨 Mobile compatible and responsive design</li>
- </ul> 
+ <ol>
+   <li>Filter and list tools by category</li>
+   <li>User-friendly data display with pagination</li>
+   <li>A smoother user experience with animated transitions</li>
+   <li>Responsive (mobile-friendly) design</li>
+   <li>Clean, scalable, and readable code</li>
+ <li>TypeScript for type safety and more maintainable code</li>
+ </ol> 
  
